@@ -10,7 +10,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-    - scheme: default # Palette toggle for light mode
+    - scheme: pink # Palette toggle for light mode
       primary: white
       toggle:
         icon: material/toggle-switch
