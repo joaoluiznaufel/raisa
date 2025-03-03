@@ -5,7 +5,7 @@ site_description: Raisa
 theme:
     name: material
     palette:
-    - scheme: slate # Palette toggle for dark mode
+    - scheme: default # Palette toggle for dark mode
       primary: pink
       toggle:
         icon: material/toggle-switch-off-outline
