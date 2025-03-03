@@ -22,6 +22,7 @@ theme:
 
 nav:
     - Home: 'index.md'
+    - '03-03-25': '03-03-25.md'
 
 # -------------------------------------------------------------------
 # Extensions: https://squidfunk.github.io/mkdocs-material/setup/extensions/
