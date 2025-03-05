@@ -26,6 +26,11 @@ nav:
     - '04-03-25': '04-03-25.md'
     - '05-03-25': '05-03-25.md'
 
+extra:
+  analytics:
+    provider: google
+    property: G-TGWJP6P18G
+
 # -------------------------------------------------------------------
 # Extensions: https://squidfunk.github.io/mkdocs-material/setup/extensions/
 # -------------------------------------------------------------------
