@@ -24,6 +24,7 @@ nav:
     - Home: 'index.md'
     - '03-03-25': '03-03-25.md'
     - '04-03-25': '04-03-25.md'
+    - '05-03-25': '05-03-25.md'
 
 # -------------------------------------------------------------------
 # Extensions: https://squidfunk.github.io/mkdocs-material/setup/extensions/
